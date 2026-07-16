@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+bin/
+dist/
+node_modules/
+coverage/
+*.log
+.idea/
+.vscode/
+.worktrees/
